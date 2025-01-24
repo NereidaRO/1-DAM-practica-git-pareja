@@ -1,2 +1,2 @@
-funciona por dios
 esta es la modificación del alumno 11, en el repo del alumno 20
+esta es la modificación del alumno 20, en el repo del alumno 20
